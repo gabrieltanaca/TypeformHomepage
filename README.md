@@ -1,3 +1,1 @@
 # Quase pronto, aguarde...
-
-# Criando!
