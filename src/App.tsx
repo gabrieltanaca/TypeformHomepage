@@ -14,6 +14,8 @@ function App() {
     <>
       <GlobalStyles />
 
+      <Header />
+
       <Main style={{ height: "1610vh" }}>
         <Section style={{ height: "72.7%" }}>
           <FirstAndSecond />
